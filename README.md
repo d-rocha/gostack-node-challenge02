@@ -74,8 +74,6 @@ Now that you already have the template cloned, and ready to continue, you must o
 
 In each test, you have a brief description of what your application must do in order for the test suits pass.
 
-If you have questions about what the tests are, and how to interpret them, take a look at **[our FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq- challenges).**
-
 For this challenge we have the following tests:
 
 - **`should be able to create a new repository`**: In order for this test to pass, your application must allow a repository to be created, and return a JSON with the created project.
